@@ -1,0 +1,60 @@
+body{
+    background-color: aliceblue;
+    background-size: cover;
+}
+
+header{
+    padding: 10px;
+    padding-bottom: 20px;
+background-color: aqua;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: black ;
+}
+
+nav a{
+color: blue;
+    padding-right: 10px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    ;
+}
+
+nav a:hover{
+
+    color:black;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    text-align: left;
+    padding: 8px;
+    background-color: green;
+}
+
+div.gallery{
+border:5px darkred;
+}
+
+div.gallery.hover{
+    border: 3px blue;
+}
+ input [type=text], select, textarea{
+
+width: 100%;
+padding: 10PX;
+ }
+
+footer{
+
+    color: black;
+   font-size: 20px;
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+
+}
+
